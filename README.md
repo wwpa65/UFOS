@@ -18,13 +18,32 @@ The web page shows a heading (and a background image), a text describing about U
 
 User can filter the data table using one or more input fields. 
 
-Here are examples to filter the data table. 
+Here are some examples on how to filter the data table. 
 
-1. Filter the table to show UFOs sighted on 1/13/2010
-Enter date 01/13/2010 into the "Enter a date" field as follows (and hit enter).
+1. To filter the table to show UFOs sighted on 1/13/2010
+a. Enter date 1/13/2010 into the "Enter a date" field as follows (and hit enter). See the red rectangle below.
 
-3. aa
+![Date Search](/images/date-search.png)
 
+b. You will see the table as shown below.
+![Date Search](/images/date-search-table.png)
+
+
+2. To filter the table to show UFOs sighted on 1/13/2010 and in the state of California
+a. Enter date 01/13/2010 into the "Enter a date" field AND "Enter a state" fields as follows (and hit enter). See the red rectangles below.
+
+![Date Search](/images/date-state-search.png)
+
+b. You will see the table as shown below.
+
+![Date Search](/images/date-state-search-table.png)
+
+3. Yoiu can go on by adding other fields as needed. Note: If you enter a field(s) where there waere no UFO sightings, then you will get anm empty table.
+
+A part of the full table is shown below.
+
+![Date Search](/images/full-webpage.png)
+![Date Search](/images/form-table.png)
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
