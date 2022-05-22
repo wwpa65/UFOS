@@ -29,27 +29,27 @@ a. Enter date 1/13/2010 into the "Enter a date" field as follows (and hit enter)
 ![Date Search](/images/date-search.png)
 
 b. You will see the table as shown below.
-![Date Search](/images/date-search-table.png)
+![Date Search_Table](/images/date-search-table.png)
 
 
 2. To filter the table to show UFOs sighted on 1/13/2010 and in the state of California
 a. Enter date 01/13/2010 into the "Enter a date" field AND "Enter a state" fields as follows (and hit enter). See the red rectangles below.
 
-![Date Search](/images/date-state-search.png)
+![Date State_Search](/images/date-state-search.png)
 
 b. You will see the table as shown below.
 
-![Date Search](/images/date-state-search-table.png)
+![Date State_Search_Table](/images/date-state-search-table.png)
 
 3. Yoiu can go on by adding other fields as needed. Note: If you enter a field(s) where there waere no UFO sightings, then you will get anm empty table.
 
 A part of the full webpage and the table is shown below.
 
-![Date Search](/images/full-webpage.png)
+![Full_Webpage](/images/full-webpage.png)
 
 
 
-![Date Search](/images/form-table.png)
+![Table](/images/form-table.png)
 
 ## Summary
 
