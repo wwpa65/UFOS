@@ -24,6 +24,7 @@ Here are some examples on how to filter the data table.
 
 1. To filter the table to show UFOs sighted on 1/13/2010
 a. Enter date 1/13/2010 into the "Enter a date" field as follows (and hit enter). See the red rectangle below.
+   Other fields have default placeholder and the input field is empty.
 
 ![Date Search](/images/date-search.png)
 
