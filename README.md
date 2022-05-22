@@ -3,8 +3,8 @@
 
 ## Overview of Project
 
-We have developed a webpage with information on UFO sightings. The goal of this project was to develop a web page that has a dynamic table that provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria (date, city, state, country, and shape) at the same time. For this work, JavaScript (includiung functions, for loops, DOM, filter, d3 library), HTML, CSS (Bootstrap), 
-
+We have developed a webpage with information on UFO sightings. The goal of this project was to develop a web page that has a dynamic table that provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria (date, city, state, country, and shape) at the same time. For this work, JavaScript (using JavaScript DOM,functions, for loops, ForEach, filter, d3 library, appending data into the HTML table), HTML, and CSS (Bootstrap).
+The code include a function for filtering data that is triggered when the user enters input into one or more of the the five fields. 
 
 **Software used:** 
 - JavaScript
